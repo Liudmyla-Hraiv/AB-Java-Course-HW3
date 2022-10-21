@@ -1,4 +1,4 @@
-package com.company;
+package com.company.robots;
 
 import com.company.robots.BalletDancingRobot;
 import com.company.robots.DancingRobot;
