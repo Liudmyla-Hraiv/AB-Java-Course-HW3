@@ -1,4 +1,4 @@
-package com.company;
+package com.company.robots;
 
 public class FolkDanceRobot extends DancingRobot {
     @Override

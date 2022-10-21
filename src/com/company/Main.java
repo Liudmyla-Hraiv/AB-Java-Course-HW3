@@ -1,5 +1,10 @@
 package com.company;
 
+import com.company.robots.BalletDancingRobot;
+import com.company.robots.DancingRobot;
+import com.company.robots.FolkDanceRobot;
+import com.company.robots.JazzDancingRobot;
+
 public class Main {
 
     public static void main(String[] args) {

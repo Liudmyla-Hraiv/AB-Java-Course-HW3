@@ -1,4 +1,4 @@
-package com.company;
+package com.company.robots;
 
 public abstract class DancingRobot {
     public String getDefaultDanceType(){
